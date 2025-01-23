@@ -78,3 +78,8 @@ Specifies the separator to use when splitting the string. By default any whitesp
 print("Obtener múltiples valores a la vez")
 country, city = input("¿En qué país y ciudad vives?\n").split() #Los establece por espacios: Ejm: Colombia(country) Valledupar(city)
 ```
+
+## ¿GIT Y GitHub No son lo mismo?
+
+Pues no, Git es un controlador de versiones, esta herramienta te permite registrar cada cambio que se realiza en el codigo fuente de un proyecto.
+GitHub es un sitio donde puedes hospedar tu codigo fuente. Es decir es un servicio de alojamiento en la nube de tu codigo fuente o proyectos. (Donde puedes hospedar ese control de versiones que has realizado con Git.
