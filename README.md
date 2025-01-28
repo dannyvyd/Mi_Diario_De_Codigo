@@ -107,4 +107,12 @@ GitHub es un sitio donde puedes hospedar tu codigo fuente. Es decir es un servic
     "terminal.integrated.defaultProfile.windows": "Git Bash"
 ```
 
+## Dato curioso:
+```py
+    nombre = "Danny"
+    edad = 23
+    altura = "1.90 metros"
+
+    print(f"Hola! Me llamo {nombre} y tengo {edad} años, mido {altura}")
+```
 
