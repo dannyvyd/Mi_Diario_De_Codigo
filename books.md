@@ -2,7 +2,7 @@
 
 # 📚 Libros de Programación en Python y gratuitos
 
-![Instagram](https://www.instagram.com/dannyvyd/)
+[Instagram](https://www.instagram.com/dannyvyd/)
 
 </div>
 
