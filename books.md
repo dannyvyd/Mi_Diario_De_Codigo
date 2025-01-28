@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Libros de Programación en Python y gratuitos
+# 📚 Libros de Programación de Python y gratuitos
 
 [Instagram](https://www.instagram.com/dannyvyd/)
 
@@ -8,7 +8,7 @@
 
 ## 📖 Índice
 
-- [📚 Libros de Programación en Español y gratuitos](#-libros-de-programación-en-python-y-gratuitos)
+- [📚 Libros de Programación de Python y gratuitos](#-libros-de-programación-de-python-y-gratuitos)
   - [📖 Índice](#-índice)
     - [🐍 Python](#-python)
 
