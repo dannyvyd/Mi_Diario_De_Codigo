@@ -12,7 +12,7 @@
   - [📖 Índice](#-índice)
     - [🐍 Python](#-python)
 
-## ### 🐍 Python
+### 🐍 Python
 
 - [97 cosas que todo programador debe saber](https://97cosas.com/programador/) - Kevlin Henney
 - [Aprende Python](https://aprendepython.es/_downloads/907b5202c1466977a8d6bd3a2641453f/aprendepython.pdf) - Sergio Delgado Quintero
