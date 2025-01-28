@@ -5,7 +5,7 @@ Desde aca hare mi diario de codigo, probablemente cambie el nombre pero por el m
 ## Los numerales o almoadillas
 
 Son titulos y separadores de textos. <br> Por ejm:
-#
+
 
 ### Listas
 
@@ -14,11 +14,11 @@ Se elaboran colocando el signo (*) <br> Por ejm:
 * Developer Beginner
 * Sena
 
-#
+
 
 Para darle negrilla a la palabra son dos (**) **negrilla**; para cursiva es un (*) *cursiva* 
 
-#
+
 
 ## Para llamar un codigo dentro de MK
 
