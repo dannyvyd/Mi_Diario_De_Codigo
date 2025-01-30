@@ -1,4 +1,8 @@
+<div align="center">
+
 # Mi Diario de Codigo
+
+</div>
 
 Desde aca hare mi diario de codigo, probablemente cambie el nombre pero por el momento quedara "Mi Diario de Codigo"
 
