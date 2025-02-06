@@ -1,7 +1,5 @@
 <div align="center">
-
 # Mi Diario de Codigo
-
 </div>
 
 
