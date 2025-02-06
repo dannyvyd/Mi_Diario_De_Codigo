@@ -1,6 +1,5 @@
 <div align="center">
-    
-#Mi Diario de Codigo
+    <h1>Mi Diario de Codigo</h1>
 
 </div>
 
