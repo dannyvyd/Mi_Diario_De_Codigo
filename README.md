@@ -3,9 +3,9 @@
 
 </div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/dannyvyd/)
+[![Instagram](https://img.shields.io/badge/Instagram-@dannyvyd-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/dannyvyd/)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-sarabia-6b78571a2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Lopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/daniel-sarabia-6b78571a2/)
 
 ## Los numerales o almoadillas
 
