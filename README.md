@@ -24,7 +24,6 @@ Se elaboran colocando el signo (*) <br> Por ejm:
 Para darle negrilla a la palabra son dos (**) **negrilla**; para cursiva es un (*) *cursiva* 
 
 
-
 ## Para llamar un codigo dentro de MK
 
 Se elabora con tilde cerrada <br>
