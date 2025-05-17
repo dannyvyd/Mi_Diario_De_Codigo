@@ -119,3 +119,6 @@ GitHub es un sitio donde puedes hospedar tu codigo fuente. Es decir es un servic
 
     print(f"Hola! Me llamo {nombre} y tengo {edad} años, mido {altura}")
 ```
+
+![image](https://github.com/user-attachments/assets/1124fcad-f65f-47b9-b795-58456f78633e)
+
