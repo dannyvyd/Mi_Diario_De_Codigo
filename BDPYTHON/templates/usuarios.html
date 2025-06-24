@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Pacientes Registrados</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            text-align: center;
+            margin-top: 20px;
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #444;
+            text-align: left;
+        }
+        th {
+            background-color: #e0e0e0;
+        }
+        a {
+            display: block;
+            text-align: center;
+            margin-top: 30px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Lista de Pacientes</h1>
+
+    <table>
+        <tr>
+            <th>Identificación</th>
+            <th>Nombres</th>
+            <th>Apellidos</th>
+            <th>Fecha de Nacimiento</th>
+            <th>Sexo</th>
+        </tr>
+        {% for pacientes in usuarios %}
+        <tr>
+            <td>{{ pacientes['PACidentificacion'] }}</td>
+            <td>{{ pacientes['PACnombres'] }}</td>
+            <td>{{ pacientes['PACapellidos'] }}</td>
+            <td>{{ pacientes['PACfechaNacimiento'] }}</td>
+            <td>{{ pacientes['PACSexo'] }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <a href="/">Volver al inicio</a>
+
+</body>
+</html>
